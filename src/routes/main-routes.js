@@ -1,5 +1,5 @@
 import KoaRouter from 'koa-router'
-import controllers from '../controllers/index'
+import controllers from '../controllers'
 
 const v1 = controllers.v1; // v1 api
 
